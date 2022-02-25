@@ -14,5 +14,6 @@ There are some functions mention below:-
 
 -----> This command uses OpenCV to detect our face and according to ML algorithm and by detecting face structure it will tell the emotion of our face in real time.
        
-<img src="C:\Users\PRATHAM UPADHYAY\Downloads\ezgif.com-gif-maker.gif" alt="My Project GIF" width="500" height="600">
+![ezgif com-gif-maker](https://user-images.githubusercontent.com/89316929/155764884-36ee7a17-8f8f-465b-b0d9-e68ae7906238.gif)
+
 
